@@ -6,7 +6,7 @@ Le modèle est entraîné sur le dataset **Fashion-MNIST** et atteint environ **
 
 ---
 
-## 🎯 Objectif du projet
+## 🎯 Objectif du projet :
 
 L'objectif est de construire un modèle capable de reconnaître automatiquement la catégorie d'un vêtement à partir d'une image en niveaux de gris de taille **28 × 28 pixels**.
 
