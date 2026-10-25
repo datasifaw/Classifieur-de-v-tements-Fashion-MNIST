@@ -1,4 +1,4 @@
-# 👕 Classifieur de vêtements — Fashion-MNIST
+# 👕 Classifieur de vêtements — Fashion-MNIST : 
 
 Projet de **Deep Learning / Computer Vision** permettant de classifier automatiquement des images de vêtements à l'aide d'un **réseau de neurones convolutif (CNN)** développé avec **TensorFlow et Keras**.
 
